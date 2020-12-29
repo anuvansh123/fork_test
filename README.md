@@ -19,3 +19,6 @@ COMPLEX EDIT 3
 ======================
 
 This is complex edit 3
+
+
+Edit from terminal using nano.
